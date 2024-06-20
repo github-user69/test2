@@ -14,7 +14,7 @@ body {
     color: white;
     font-size: 75px;
     position: absolute;
-    bottom: 200px;
+    bottom: 175px;
     left: 50%;
     transform: translate(-50%, 0);
 }
