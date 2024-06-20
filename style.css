@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+.hello {
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translate(0, -50%);
+    font-size: large;
+}
