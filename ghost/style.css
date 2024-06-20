@@ -3,6 +3,6 @@ body {
 }
 
 .ghost {
-    height: 200px;
-    width: 200px;
+    height: auto;
+    width: auto;
 }
