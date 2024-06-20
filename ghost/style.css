@@ -3,6 +3,9 @@ body {
 }
 
 .ghost {
-    height: 500px;
-    width: 500px;
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
 }
