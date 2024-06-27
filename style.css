@@ -19,7 +19,6 @@ body {
     top: 50%;
     right: 50%;
     transform: translate(50%, 50%);
-   /* border-style: none; */
     display: inline-block;
     width: 100px;
     height: 40px;
